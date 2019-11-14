@@ -4,4 +4,7 @@ class Artist
     @name = name
   end 
   
+  def first_chat
+    puts "chat"
+  end
 end
